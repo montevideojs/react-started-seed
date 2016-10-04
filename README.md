@@ -18,6 +18,7 @@ This is a starter boilerplate for get `up and running` react-redux apps using th
 * [style-loader](https://github.com/webpack/style-loader), [sass-loader](https://github.com/jtangelder/sass-loader) and  import of stylesheets in plain css, sass.
 * [mocha](https://mochajs.org/) to allow writing unit tests for the project.
 * [enzyme](https://github.com/airbnb/enzyme) to allow writing unit tests for the project.
+* [material-ui](http://www.material-ui.com/) Google's Material Design with React component.
 
 ## Installation
 
