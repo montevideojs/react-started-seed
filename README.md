@@ -24,7 +24,7 @@ This is a starter boilerplate for get `up and running` react-redux apps using th
 ## Installation
 
 ```bash
-npm i
+npm install
 ```
 
 ## Running Dev Server
